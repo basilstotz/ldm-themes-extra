@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 27 Apr 2014 13:17:39 +0200
+Source: ldm-themes-extra
+Binary: ldm-themes-extra
+Architecture: source all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz@amxa.ch>
+Description: 
+ ldm-themes-extra - extra themes for ldm
+Changes: 
+ ldm-themes-extra (1.0) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 7119c4675270164050bc555cc4904d2bb02934bb 588 ldm-themes-extra_1.0.dsc
+ eca6a49ebe57085166106bb478fc6ba23a238689 5033531 ldm-themes-extra_1.0.tar.gz
+ 0ea04697dd19ef4f3ea7007d00400604728efd65 5029446 ldm-themes-extra_1.0_all.deb
+Checksums-Sha256: 
+ d8438bb41a95e0fc8f812d11a6917bb1c0beedf4eba5aeee8e06187e86d5dfe5 588 ldm-themes-extra_1.0.dsc
+ 36552349a20bc05db2fac8006fc5611029511f6942bd2f4fd7bb68f8a845dd67 5033531 ldm-themes-extra_1.0.tar.gz
+ 2de406f79953256b5ebaf85914440726a8dea3264c496b8ad7d8d4eaf376ce8a 5029446 ldm-themes-extra_1.0_all.deb
+Files: 
+ 70f976d59c56b68383413045b0d48cb8 588 unknown extra ldm-themes-extra_1.0.dsc
+ 0aef91558a8fa1c1487651e4c6022a46 5033531 unknown extra ldm-themes-extra_1.0.tar.gz
+ 39eb5212ec238f181236d236f5aa8ce6 5029446 unknown extra ldm-themes-extra_1.0_all.deb
