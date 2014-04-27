@@ -1,0 +1,16 @@
+Source: ldm-themes-extra
+Section: unknown
+Priority: extra
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/ldm-themes-extra.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/ldm-themes-extra.git;a=summary
+
+Package: ldm-themes-extra
+Architecture: all
+Depends: ${misc:Depends}
+Description: extra themes for ldm
+ extra themse for ldm
+
